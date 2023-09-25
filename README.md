@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DianneKristelCastillo
-- 👀 I’m interested in reading books and watching series.
-- 🌱 I’m currently learning many programming languages.
-- 💞️ I’m looking to collaborate on project.
-- 📫 How to reach me: diannekristelcastillo122902@gmail.com
+- 👀 I’m interested in learning and watching programming lessons on social media.
+- 🌱 I’m currently in the process of learning many programming languages.
+- 💞️ I’m looking to collaborate on a project.
+- 📫 You can contact me on my email diannekristelcastillo122902@gmail.com
 
 <!---
 DianneKristelCastillo/DianneKristelCastillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
